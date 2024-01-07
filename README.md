@@ -4,9 +4,9 @@
 
 Este es un proyecto realizado con Node.js vs18 y base de datos postgres
 
-[Más información sobre la app](./api/README.md)
+[Más información sobre la app](./BackEnd/api/README.md)
 
-[Acerca de Nosotros:](./api/Data/sobreNos.md)
+[Acerca de Nosotros:](./BackEnd/api/Data/sobreNos.md)
 
 
 
